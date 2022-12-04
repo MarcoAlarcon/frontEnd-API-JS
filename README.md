@@ -1,6 +1,6 @@
 BR
 
-Link do github pages: 
+Link do github pages: https://marcoalarcon.github.io/frontEnd-API-JS/
 
 Página criada com o intuito de praticar o consumo e o tratamento de dados de uma API em JavaScript.
 
@@ -10,7 +10,7 @@ Espero que gostem! 🤓
 
 EN
 
-Link for github pages:
+Link for github pages: https://marcoalarcon.github.io/frontEnd-API-JS/
 
 Page created for practicing the consumption and processing of data from an API in JavaScript.
 
